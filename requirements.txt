@@ -1,0 +1,5 @@
+git+https://github.com/cloudera/cmlextensions.git
+modin[dask]
+s3fs
+bokeh!=3.0.*,>=2.4.2
+pyarrow
